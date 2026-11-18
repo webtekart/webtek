@@ -1,8 +1,9 @@
 {
   "domains": [
     "bibip.com.tr",
-    "bibip.tech"
+    "bibip.tech",
+    "webteknolojisi.com"
   ],
-  "ts": 1795023828892,
-  "sig": "4OqdxVdaRWTJ9ToYAodeK+9NoMncEhuEG/JDZeyJe424q/cMmy+HUszUyn3/PS79CL0lAjfXSyrYfZK9G1fWAA=="
+  "ts": 1795023834536,
+  "sig": "oumjP40nEUiJG2p+oWnPI6cTqu7X8aoiQEqySxaM0kgFXm80SPxzoixQG4ayh2fzk5Jobfp+hrT3slJAhGDWBg=="
 }
